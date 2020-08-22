@@ -1,6 +1,7 @@
 # git-command
 
 ### 正常提交
+
 - 克隆代码 git clone http://rep.git
 
 - 增加文件到待提交队列 git add * 
